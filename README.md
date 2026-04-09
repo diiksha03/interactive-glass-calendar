@@ -8,7 +8,7 @@ Instead of keeping it basic, I focused on making the UI feel modern and interact
 
 ## What it does
 
-* Lets you select a **start date and end date**
+* Let you select **start date and end date**
 * Clearly highlights the **selected range**
 * Includes a **notes section** for the month
 * Changes the **visual theme based on the selected month**
@@ -59,19 +59,6 @@ Open in browser:
 
 http://localhost:3000
 
----
-
-## Live demo
-
-(Add your Vercel link here)
-
----
-
-## Demo video
-
-(Add your Loom / YouTube link here)
-
----
 
 ## Notes
 
